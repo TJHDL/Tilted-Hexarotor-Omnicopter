@@ -1,0 +1,2 @@
+omnicopter_controller:rotors_comm:rotors_control:rotors_description:rotors_evaluation:rotors_gazebo:rotors_gazebo_plugins:rotors_hil_interface:rotors_joy_interface:rotors_simulator:rqt_rotors
+-DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/hdl/GraduateDesign/Catkin_workspace_assemble/RotorS_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hdl/GraduateDesign/Catkin_workspace_assemble/RotorS_ws/install -G Unix Makefiles

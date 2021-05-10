@@ -1,0 +1,8 @@
+prefix=/home/hdl/GraduateDesign/Catkin_workspace_assemble/RotorS_ws/devel
+
+Name: rotors_evaluation
+Description: Description of rotors_evaluation
+Version: 2.2.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

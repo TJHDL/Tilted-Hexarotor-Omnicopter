@@ -1,0 +1,8 @@
+prefix=/home/hdl/GraduateDesign/Catkin_workspace_assemble/RotorS_ws/install
+
+Name: omnicopter_controller
+Description: Description of omnicopter_controller
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lomnicopter_controller
+Requires: geometry_msgs mav_msgs nav_msgs roscpp sensor_msgs
